@@ -2,5 +2,5 @@
 
 ## Lab1: Pytorch Tutorial & CNN network
 **File:** 
-1. pytorch_tutorial.ipynb
-2. notebooks/pytorch_tutorial_complete.ipynb
+1. Exercise: notebooks/pytorch_tutorial.ipynb
+2. Answer:   notebooks/pytorch_tutorial_complete.ipynb
